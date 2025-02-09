@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+numpy
+opencv-python
+onnxruntime
+requests
+torch==2.6.0
+torchvision
+torchaudio
