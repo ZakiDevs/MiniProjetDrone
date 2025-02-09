@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Flutter",
+        "program": "lib/main.dart",  // Make sure this points to your main.dart
+        "request": "launch",
+        "type": "dart"
+      }
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/Users/Click/Desktop/Easy access/flutter project/demo/windows/flutter",
+    "dart.flutterHotReloadOnSave": "all",
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
